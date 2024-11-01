@@ -3,3 +3,6 @@
 **/.idea/*
 .DS_Store
 venv
+.venv
+uv.lock
+.ruff_cache
