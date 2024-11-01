@@ -1,0 +1,11 @@
+[project]
+name = "fast-api-granian"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "fastapi[standard]>=0.115.4",
+    "granian>=1.6.3",
+    "ruff>=0.7.1",
+]
